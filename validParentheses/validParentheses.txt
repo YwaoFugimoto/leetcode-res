@@ -1,3 +1,15 @@
+Ultilizar pilha para armazenar os caracteres de abertura ({, [, ().
 
+Para cada caractere ->
 
+    Se for de abertura, é empilhado.
 
+    Se for de fechamento, verifica se o topo da pilha corresponde ao caractere de fechamento esperado. Se nao false.
+
+Verificacao final string é válida se, ao final, a pilha estiver vazia (top == -1), ou seja, todos os parênteses foram fechados corretamente.
+
+Complexidade ->
+
+    tempo: O algoritmo percorre a string uma vez, logo, é O(n), onde n é o comprimento da string.
+
+    espaço: A pilha pode armazenar até n caracteres no pior caso, resultando em O(n) de espaço.
