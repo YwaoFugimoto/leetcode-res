@@ -1,10 +1,13 @@
-# 🧠 Problem Solving Repository
+# Problem Solving Repository
 
 This repository contains my solutions to algorithm and data structure problems solved on platforms such as LeetCode, HackerRank, Codeforces, and others.
 
 The goal is to track my progress, improve my problem-solving skills, and build a consistent study routine.
 
-## 🎯 Objectives
+## Main rules
+- 30 - 45 minutos para resolução.
+
+## Objectives
 
 - Practice logic and data structures
 - Prepare for technical interviews
