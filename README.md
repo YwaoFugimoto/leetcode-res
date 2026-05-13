@@ -5,7 +5,8 @@ This repository contains my solutions to algorithm and data structure problems s
 The goal is to track my progress, improve my problem-solving skills, and build a consistent study routine.
 
 ## Main rules
-- 30 - 45 minutos para resolução.
+- 30 - 45 minutos para resolução
+- Conceitos base
 
 ## Objectives
 
